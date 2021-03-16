@@ -1,0 +1,47 @@
+          .body{
+             padding-top: 56px;
+        }
+          .jumbotron {
+             text-shadow: #000 2px 2px;
+        }
+        .img {
+          width: 350px; height: 50px;
+        }
+        .service-style {
+          margin-top: 15px;
+          background-color: #fafbfc;
+        }
+        .text-blue {
+          color:  #6495ED;
+        }
+        .bg-blue {
+          background-color: #6495ED;
+        }
+         h2:before,
+         h2:after {
+            background-color: #6495ED;
+            content: "";
+            display: inline-block;
+            height: 1px;
+            position: relative;
+            vertical-align: middle;
+            width: 20%;
+        }
+        h2::before {
+          right: 0.5em;
+          margin-left: -50%;
+        }
+        h2::after {
+          left: 0.5em;
+          margin-right: -50%;
+        }
+         .button-sekunder {
+          background-color: transparent;
+          border-color: #dbdbdb;
+          color: #6495ED;
+        }
+        .button-sekunder:hover{
+            background-color:  #6495ED;
+            border-color: #dbdbdb;
+            color: #fff;
+        }
