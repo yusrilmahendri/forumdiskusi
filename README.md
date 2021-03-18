@@ -1,6 +1,6 @@
 #Front End Project Sunat Alfatih Center
 
-- kurang page dashboard
+- kurang page dashboard admin
 - fitur admin di dashboard 
 - fitur post artikel yang akan di tampilkan di landingpage 
 - fitur data user yang mendaftar 
