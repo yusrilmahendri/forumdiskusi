@@ -20,4 +20,4 @@ Yang sudah ada :
 - kontak alfatih 
 - daftar
 - login 
-- rancangan use case dan DFD
+- rancangan aplikasi use case dan DFD
