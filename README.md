@@ -10,6 +10,8 @@ Yang Belum ada dan diperlukan :
 - fitur like unlike pada postingan di landingpage postingan 
 - fitur komentar pada postingan di landingpage postingan
 
+
+
 Yang sudah ada :
 - landing page 
 - artikel post 
